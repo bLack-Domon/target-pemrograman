@@ -1,0 +1,4 @@
+Rencana Target
+
+-Belajar Laravel 6
+-Belajar Laravel 8 Jetstream (livewire&inertia)
