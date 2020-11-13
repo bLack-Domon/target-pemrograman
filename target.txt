@@ -1,0 +1,5 @@
+Target Pembelajaran Web
+- Belajar Materi Front-end Terlebih dahulu mulai dari HTML, CSS, & Javascript.
+- Belajar Materi PHP Developer.
+- Belajar FrameWork Laravel.
+- Sebelum Semester 7 Uas sudah bisa mencapai target poin ke 3.
